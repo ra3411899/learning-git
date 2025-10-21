@@ -13,3 +13,5 @@ There are Few Basic Commands Which will be used be 90% of the Time
 We will in depth as we go.
 
 ### Git File Structure(Learn Later)
+
+* Need to have a Better Understanding on this, How file Structure on this, It is Complicated
